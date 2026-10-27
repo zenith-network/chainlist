@@ -19,11 +19,13 @@
   ],
   "headers": [
     {
-      "source" : "rpcs.json",
-      "headers" : [{
-        "key" : "Access-Control-Allow-Origin",
-        "value" : "*"
-      }]
+      "source": "rpcs.json",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
     }
   ],
   "directoryListing": false
